@@ -11,15 +11,16 @@ case study for two QUAL2000 Quality Assurance and Testing assignments. Students
 will use this project as the system under test for:
 Submission dates:
 
-- Assignment 1: Tuesday, April 14th at 11:59 PM
-- Assignment 2: Thursday, April 23rd at 11:59 PM
-
 - Assignment 1: planning end-to-end test coverage and documenting that plan in
   [Test-Cases-Submission.xlsx](./Test-Cases-Submission.xlsx) while following
   the requirements in [Test Plan Assignment.docx](./Test%20Plan%20Assignment.docx)
+
+- Assignment 1: Tuesday, April 14th at 11:59 PM
+
 - Assignment 2: executing those planned scenarios with Playwright and completing
   the reporting expectations described in
   [QA Report-Assignment.docx](./QA%20Report-Assignment.docx)
+- Assignment 2: Thursday, April 23rd at 11:59 PM
 
 This README is written as the main student handout for using the app as a QA
 case study. It explains how to run the app, configure the environment, load the
