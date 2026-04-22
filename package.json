@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "test": "node --test"
+    "test": "node --test",
+    "test:e2e": "playwright test",
+    "test:e2e:headed": "playwright test --headed",
+    "test:e2e:report": "playwright show-report"
   },
   "repository": {
     "type": "git",
@@ -27,5 +30,8 @@
     "express-session": "^1.19.0",
     "method-override": "^3.0.0",
     "mongoose": "^9.3.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
   }
 }
